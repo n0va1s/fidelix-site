@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -10,7 +12,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', ['uses' => 'SiteController@home'])->name('site.home');
+Route::get('/cliente', ['uses' => 'SiteController@client'])->name('site.client');
+Route::get('/contato', ['uses' => 'SiteController@contact'])->name('site.contact');
+Route::get('/produto', ['uses' => 'SiteController@product'])->name('site.product');
+Route::post('/obrigado', ['uses' => 'SiteController@lead'])->name('site.lead');
+Route::post('/enviada', ['uses' => 'SiteController@message'])->name('site.message');
