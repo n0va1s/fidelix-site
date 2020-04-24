@@ -37,7 +37,7 @@
 </head>
 <body>
     <!--Navbar Início Start-->
-    <nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark pr-3">
+    <nav class="navbar navbar-expand-lg navbar-static-top navbar-custom sticky sticky-dark pr-3">
         <div class="container">
             <!-- LOGO Start-->
             <a class="navbar-brand logo desktoppic" href="/">
@@ -85,6 +85,9 @@
             <!--Mobile Button 3: Mais Start-->
             <div class="collapse navbar-collapse" id="options">
                 <ul class="navbar-nav ml-auto navbar-center" id="mySidenav">
+                    <li class="nav-item">
+                        <a href="{{ route('site.home') }}" class="nav-link">Início</a>
+                    </li>
                     <li class="nav-item">
                         <a href="{{ route('site.product') }}" class="nav-link">Produtos</a>
                     </li>

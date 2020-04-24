@@ -112,7 +112,6 @@
                 </div>
             </div>
         </div>
-        <!--
         <section class="section" id="services" style="padding-top:50px;">
             <div class="container">
                 <div class="row justify-content-center contentTop">
@@ -163,7 +162,6 @@
                 </div>
             </div>
         </section>
-        -->
         <div class="row align-items-center">
             <div class="col-md-5" style="background: url(images/features/features-bg.png) center center">
                 <div class="features-img">
@@ -187,8 +185,7 @@
                 </div>
             </div>
         </div>
-        <!--
-        <section class="section" id="services" style="padding-top:50px;">
+        <section class="section" id="services">
             <div class="container">
                 <div class="row justify-content-center contentTop">
                     <div class="col-lg-6 col-md-8">
@@ -238,8 +235,6 @@
                 </div>
             </div>
         </section>
-        -->
     </div>
-</section>    
-<!--Cartão Fidelidade End-->
+</section> 
 @endsection

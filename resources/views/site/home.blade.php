@@ -26,7 +26,7 @@
     <!-- Section 1 End -->
 
     <!-- Quem Somos Start -->
-    <section class="section bg-light" id="about" style="padding-top:50px;">
+    <section class="section bg-light" id="about">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-md-8 contentTop">
