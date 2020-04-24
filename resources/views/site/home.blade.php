@@ -10,7 +10,7 @@
                     <div class="text-center">
                         <h1 class="hero-3-title text-white mb-4 font-weight-normal line-height-1_4 contentTitleTop">A VITRINE DOS COMERCIANTES DO BAIRRO!</h1>
                         <p class="text-white-50 mb-4">Quer melhorar a relação com seus clientes e vender mais?<br /> Nós podemos ajudar!</p>
-                        <a href="" class="btn btn-warning">Conheça Nossos Produtos</a>
+                        <a href="{{ route('site.product') }}" class="btn btn-warning">Conheça Nossos Produtos</a>
                     </div>
                 </div>
             </div>

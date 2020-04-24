@@ -39,7 +39,7 @@
                 </div>
             </div>
         </div>
-        <section class="section" id="services" style="padding-top:50px;">
+        <section class="section" id="services">
             <div class="container">
                 <div class="row justify-content-center contentTop">
                     <div class="col-lg-6 col-md-8">
@@ -112,7 +112,7 @@
                 </div>
             </div>
         </div>
-        <section class="section" id="services" style="padding-top:50px;">
+        <section class="section" id="services">
             <div class="container">
                 <div class="row justify-content-center contentTop">
                     <div class="col-lg-6 col-md-8">
