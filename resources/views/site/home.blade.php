@@ -17,7 +17,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-10 mt-0 mb-2">
                     <div class="hero-3-img">
-                        <img src="images/hero-3-img2.png" alt="" class="imgInit img-fluid mx-auto d-block">
+                        <img src="{{ asset('images/hero-3-img2.png') }}" alt="Imagem de fundo de pessoas fazendo compras" class="imgInit img-fluid mx-auto d-block">
                     </div>
                 </div>
             </div>
@@ -48,16 +48,14 @@
                         </div>
                         <div class="col-md-6">
                             <h6 class="text-dark font-weight-light f-20 mb-3">Nosso Propósito</h6>
-                            <p class="text-muted font-weight-light">Queremos ajudar o micro e o pequeno empresário a ter uma relação duradoura e fiel com seu cliente, de forma que os dois ganhem, como?: o empresário venda mais e o cliente tenha benefícios pela fidelidade.</p>
+                            <p class="text-muted font-weight-light">Queremos ajudar o micro e o pequeno empresário a ter uma relação duradoura e fiel com seu cliente, de forma que os dois ganhem. Como? O empresário venda mais e o cliente tenha benefícios pela fidelidade.</p>
                         </div>
                     </div>
                 </div>
             </div>
             <!--Vídeo Responsivo Start-->
-            <div class="title text-center mb-5">
-                <div class="embed-responsive embed-responsive-16by9">
-                        <iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
-                </div>
+            <div class="embed-responsive embed-responsive-21by9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/E8cCzdllwvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <!--Vídeo Responsivo End-->
         </div>
@@ -72,17 +70,17 @@
                     <div class="row">
                         <div class="col-4">
                             <div class="subscribe-icon">
-                                <img src="images/icon/1.png" alt="" class="img-fluid mx-auto d-block">
+                                <img src="{{ asset('images/icon/1.png') }}" alt="Icone de Mensagem" class="img-fluid mx-auto d-block">
                             </div>
                         </div>
                         <div class="col-4">
                             <div class="subscribe-icon">
-                                <img src="images/icon/2.png" alt="" class="img-fluid mx-auto d-block">
+                                <img src="{{ asset('images/icon/2.png') }}" alt="Icone de Mensagem" class="img-fluid mx-auto d-block">
                             </div>
                         </div>
                         <div class="col-4">
                             <div class="">
-                                <img src="images/icon/3.png" alt="" class="img-fluid mx-auto d-block">
+                                <img src="{{ asset('images/icon/3.png') }}" alt="Icone de Mensagem" class="img-fluid mx-auto d-block">
                             </div>
                         </div>
                     </div>

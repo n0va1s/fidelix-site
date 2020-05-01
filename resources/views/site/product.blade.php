@@ -11,6 +11,13 @@
                 </div>
             </div>
         </div>
+        <!--Vídeo Responsivo Start-->
+        <div class="title text-center mb-5">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/r0xWnbJO8ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+        <!--Vídeo Responsivo End-->
         <div class="row align-items-center">
             <div class="col-md-5" style="background: url(images/features/features-bg.png) center center">
                 <div class="features-img">
