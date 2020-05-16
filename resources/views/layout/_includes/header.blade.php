@@ -16,10 +16,10 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Fidelix - voucher">
-    <link rel="apple-touch-icon" href="/images/icons/icon-152x152.png">
+    <link rel="apple-touch-icon" href="{{ asset('images/icon/icon-152x152.png') }}">
 
     <!-- favicon -->
-    <link rel="shortcut icon" href="{{ asset('images/favicon2.ico') }}">
+    <link rel="shortcut icon" href="{{ asset('images/fidelix.ico') }}">
 
     <!-- icons -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/materialdesignicons.min.css') }}" />

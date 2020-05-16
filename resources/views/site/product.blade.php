@@ -38,11 +38,9 @@
                     <p class="text-muted mb-3 f-15">
                         Você pode se diferenciar da sua concorrência muito além do bom atendimento, mostre ao seu cliente que a fidelidade tem valor. Ofereça um produto, um serviço e como em um jogo, ajude-o a completar o desafio do cartão fidelidade
                     </p>
-                    <!--
                     <div class="text-center">
-                        <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                        <a href="https://app.fidelix.com.br" class="btn btn-warning"> Quero Conhecer <span class="right-icon ml-2">&#8594;</span></a>
                     </div>
-                    -->
                 </div>
             </div>
         </div>
@@ -66,7 +64,7 @@
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">COVID-19</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 0,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -77,7 +75,7 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Infiel</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito por 90 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 37,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -88,9 +86,9 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Fiel</h5>
                             <p class="text-muted service-subtitle mb-4">Gratuito por 30 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 17,00</h5>
-                            <div class="text-center">
+                            <!--<div class="text-center">
                                 <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -116,6 +114,9 @@
                     <p class="text-muted mb-3 f-15">
                         Você pode se diferenciar da sua concorrência muito além do bom atendimento, mostre ao seu cliente que a fidelidade tem valor. Ofereça um produto, um serviço e como em um jogo, ajude-o a completar o desafio do cartão fidelidade
                     </p>
+                    <div class="text-center">
+                        <a href="https://voucher.fidelix.com.br" class="btn btn-warning"> Quero Conhecer <span class="right-icon ml-2">&#8594;</span></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -139,7 +140,7 @@
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">COVID-19</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 0,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -150,7 +151,7 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Infiel</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito por 90 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 37,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -161,9 +162,9 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Fiel</h5>
                             <p class="text-muted service-subtitle mb-4">Gratuito por 30 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 17,00</h5>
-                            <div class="text-center">
+                            <!--<div class="text-center">
                                 <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
@@ -189,6 +190,9 @@
                     <p class="text-muted mb-3 f-15">
                         Você pode se diferenciar da sua concorrência muito além do bom atendimento, mostre ao seu cliente que a fidelidade tem valor. Ofereça um produto, um serviço e como em um jogo, ajude-o a completar o desafio do cartão fidelidade
                     </p>
+                    <div class="text-center">
+                        <a href="https://vitrine.fidelix.com.br" class="btn btn-warning"> Quero Conhecer <span class="right-icon ml-2">&#8594;</span></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -212,7 +216,7 @@
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">COVID-19</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 0,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -223,7 +227,7 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Infiel</h5>
                             <p class="text-center text-muted service-subtitle mb-4">Gratuito por 90 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 37,00</h5>
-                            <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
+                            <!--<a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>-->
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -234,9 +238,9 @@
                             <h5 class="service-title text-dark font-weight-normal pt-1 mb-4">Plano Fiel</h5>
                             <p class="text-muted service-subtitle mb-4">Gratuito por 30 dias</p>
                             <h5 class="text-center service-title text-dark font-weight-normal pt-1 mb-4">R$ 17,00</h5>
-                            <div class="text-center">
+                            <!--<div class="text-center">
                                 <a href="#" class="btn btn-warning"> Eu Quero <span class="right-icon ml-2">&#8594;</span></a>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
