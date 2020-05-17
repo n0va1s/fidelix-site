@@ -8,6 +8,7 @@
                             <ul class="list-unstyled footer-social-list mt-4">
                                 <li class="list-inline-item"><a href="https://m.me/fidelixbr?fbclid=IwAR0yotabGhsW0rACtp5zQ7lTYvYAfOU-VYMaETqytkc5OdDS9aCqO7594n8"><i class="mdi mdi-facebook"></i></a></li>
                                 <li class="list-inline-item"><a href="https://instagram.com/fidelixbr?fbclid=IwAR3vnr3GcAfZaWqHaUX9-ZcbLTvnsnXRpfT_lBRbGITdZyxL8gPHCV-5A3c"><i class="mdi mdi-instagram"></i></a></li>
+                                <li class="list-inline-item"><a href="https://twitter.com/fidelixbr"><i class="mdi mdi-twitter"></i></a></li>
                                 <li class="list-inline-item"><a href="https://medium.com/@fidelixbr"><i class="mdi mdi-medium"></i></a></li>
                             </ul>
                             <!--Termos de Uso Button Start-->

@@ -39,10 +39,10 @@
                     <h5 class="text-yellowFidelix mb-4 font-weight-normal f-18">Redes Sociais</h5>
                     <!--Button Social Networks Start-->
                     <ul class="list-unstyled footer-social-list1 mt-6">
-                        <li class="list-inline-item"><a href="https://www.facebook.com/fidelixbr/"><i class="mdi mdi-facebook"></i></a></li>
-                        <li class="list-inline-item"><a href="https://www.instagram.com/fidelixbr/"><i class="mdi mdi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="https://m.me/fidelixbr?fbclid=IwAR0yotabGhsW0rACtp5zQ7lTYvYAfOU-VYMaETqytkc5OdDS9aCqO7594n8"><i class="mdi mdi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="https://instagram.com/fidelixbr?fbclid=IwAR3vnr3GcAfZaWqHaUX9-ZcbLTvnsnXRpfT_lBRbGITdZyxL8gPHCV-5A3c"><i class="mdi mdi-instagram"></i></a></li>
                         <li class="list-inline-item"><a href="https://twitter.com/FidelixBr"><i class="mdi mdi-twitter"></i></a></li>
-                        <li class="list-inline-item"><a href="whatsapp://send/?phone=5561981185815"><i class="mdi mdi-whatsapp"></i></a></li>
+                        <li class="list-inline-item"><a href="https://wa.me/5561981185815?Ola%20gostaria%20de%20informacoes"><i class="mdi mdi-whatsapp"></i></a></li>
                     </ul>
                     <!--Button Social Netwrorks End-->
                </div>
