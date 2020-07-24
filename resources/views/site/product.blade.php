@@ -21,6 +21,51 @@
         <div class="row align-items-center">
             <div class="col-md-5" style="background: url(images/features/features-bg.png) center center">
                 <div class="features-img">
+                    <form action="{{ route('site.zapzap') }}" method="post">
+                            <div class="form-group app-label">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-control" required="required" name="email" id="email">
+                            </div>
+                            <div class="form-group app-label">
+                                <label for="name">Nome</label>
+                                <input type="text" class="form-control" name="name" id="name">
+                            </div>
+                            <div class="form-group app-label">
+                                <label for="phone">Celular</label>
+                                <input type="text" class="form-control" name="phone" id="phone">
+                            </div>
+                            <div class="form-group app-label">
+                                <label for="greeting">Mensagem inicial</label>
+                                <input type="text" class="form-control" name="greeting" id="greeting">
+                            </div>
+                            <div class="text-center mt-5 mb-2">
+                                <button type="submit" class="btn btn-warning ml-2" align="center"><i class="fa fa-envelope-o"></i> Enviar</button>
+                            </div>
+                            @csrf
+                        </form>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-1">
+                <div class="features-box mt-5 mt-sm-0 mb-4">
+                    <div class="features-icon my-4">
+                        <i class="mdi mdi-credit-card"></i>
+                    </div>
+                    <h5 class="text-warning font-weight-medium mb-3 pt-3">Whatsapp Link</h5>
+                    <h6 class="text-dark font-weight-normal mb-3 pt-3">Problema</h6>
+                    <p class="text-muted mb-3 f-15">
+                        Não sabe como criar o seu link para atendimento com Whatsapp?
+                    </p>
+                    <h6 class="text-dark font-weight-normal mb-3 pt-3">Oportunidade</h6>
+                    <p class="text-muted mb-3 f-15">
+                        Você pode criar o seu agora e gratuitamente!
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row align-items-center">
+            <div class="col-md-5" style="background: url(images/features/features-bg.png) center center">
+                <div class="features-img">
                     <img width="300em" src="images/features/cartaofidelidade.jpeg" alt="Imagem do Cartão Fidelidade" class="img-fluid d-block mx-auto">
                 </div>
             </div>
