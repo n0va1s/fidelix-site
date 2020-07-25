@@ -24,19 +24,19 @@
                     <form action="{{ route('site.zapzap') }}" method="post">
                             <div class="form-group app-label">
                                 <label for="email">Email</label>
-                                <input type="email" class="form-control" required="required" name="email" id="email">
+                                <input type="email" class="form-control" required="required" name="email" id="email" placeholder="O email da sua empresa">
                             </div>
                             <div class="form-group app-label">
                                 <label for="name">Nome</label>
-                                <input type="text" class="form-control" name="name" id="name">
+                                <input type="text" class="form-control" name="name" id="name" placeholder="Seu nome e sobrenome" maxlength="100">
                             </div>
                             <div class="form-group app-label">
                                 <label for="phone">Celular</label>
-                                <input type="text" class="form-control" name="phone" id="phone">
+                                <input type="text" class="form-control" name="phone" id="phone" placeholder="Ex:61988887766" maxlength="15">
                             </div>
                             <div class="form-group app-label">
                                 <label for="greeting">Mensagem inicial</label>
-                                <input type="text" class="form-control" name="greeting" id="greeting">
+                                <input type="text" class="form-control" name="greeting" id="greeting" placeholder="No máximo 30 letras" maxlength="30">
                             </div>
                             <div class="text-center mt-5 mb-2">
                                 <button type="submit" class="btn btn-warning ml-2" align="center"><i class="fa fa-envelope-o"></i> Enviar</button>
