@@ -85,7 +85,7 @@ class SiteController extends Controller
             return back()->withInput();
         }
 
-        $phone = str_replace(
+        $data['phone'] = str_replace(
             '+',
             '',
             str_replace(
@@ -110,8 +110,12 @@ class SiteController extends Controller
                 )
             )
         );
+        // Remove internation prefix 55
+        if (substr($data['phone'], 0, 2) === "55") {
+            $data['phone'] = substr($data['phone'], 2, strlen($data['phone']));
+        }
         $greeting = str_replace(' ', '%20', $data['greeting']);
-        $url = "https://wa.me/55$phone?$greeting";
+        $url = "https://wa.me/55".$data['phone']."?".$greeting;
         Lead::create($data);
         Mail::to($data['email'])->send(
             new WhatsappLink($url)
