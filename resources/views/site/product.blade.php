@@ -1,9 +1,9 @@
 @extends('layout.site')
 
 @section('content')
-<section class="section" id="features">
+<section class="mt-3 mb-3 bg-light" id="features">
     <div class="container">
-        <div class="row justify-content-center contentTop">
+        <div class="row p-2">
             <div class="col-lg-6 col-md-8">
                 <div class="title text-center mb-5">   
                     <h2 class="font-weight-medium text-dark">Nossos <span class="text-dark">Produtos</span></h2>
@@ -44,7 +44,7 @@
                                 <input type="text" class="form-control" name="greeting" id="greeting" placeholder="No máximo 30 letras" maxlength="30">
                             </div>
                             <div class="text-center mt-5 mb-2">
-                                <button type="submit" class="btn btn-warning ml-2" align="center"><i class="fa fa-envelope-o"></i> Enviar</button>
+                                <button type="submit" class="btn btn-warning ml-2">Enviar</button>
                             </div>
                             @csrf
                         </form>
@@ -157,6 +157,11 @@
                         </div> 
                     </div>
                 </div>
+                <!-- Banner COVID -->
+                <div class="alert alert-danger text-center">
+                    <h3>COVID-19: Os aplicativos e a vitrine estão <span class="red">gratuitos</span></h3>
+                    <p>Tem alguma dúvida? <a href="/contato">Entre em contato</a></p>
+                </div>
                 <!--
                 <div class="row text-center">
                     <div class="text-center col-lg-4 col-md-6">
@@ -201,4 +206,3 @@
     </div>
 </section> 
 @endsection
-

@@ -3,9 +3,9 @@
 @section('content')
 <!-- Clientes Start-->
 <!--LOGO End-->
-<section class="section" id="features">
+<section class="mt-3 mb-3 bg-light" id="clients">
     <div class="container">
-        <div class="row justify-content-center contentTop">
+        <div class="row p-2">
             <div class="col-sm-12">
                 <div class="title text-center mb-5">
                     <h3 class="font-weight-normal text-dark">Amigos da <span class="text-warning">Fidelix</span></h3>

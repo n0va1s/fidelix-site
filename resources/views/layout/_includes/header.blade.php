@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <title>Fidelix</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A vitrine dos comerciantes do bairro" />
+    <meta name="description" content="O Shopping Center dos comerciantes do bairro" />
     <meta name="keywords" content="Fidelix, Cartao Fidelidade, Cupom de Desconto, Vitrine de Produtos, MEI, Microempreendedor, aplicativo" />
     <meta name="author" content="MiSCapu"/>
 
@@ -16,24 +16,26 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Fidelix - voucher">
-    <link rel="apple-touch-icon" href="{{ asset('images/icon/icon-152x152.png') }}">
+    <link rel="apple-touch-icon" href="{{ asset('images/icon/app-icon-152-152.png') }}">
 
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ asset('images/fidelix.ico') }}">
 
     <!-- icons -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('css/materialdesignicons.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/materialdesignicons.min.css') }}" />    
     <link rel="stylesheet" type="text/css" href="{{ asset('css/pe-icon-7.css') }}" />
 
     <!--Sliders-->
     <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/owl.theme.default.min.css') }}" />
 
-    <!-- css -->
+    <!-- Theme -->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}" />
     <link rel="stylesheet" type="text/css" href="{{ asset('css/style.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/app.css') }}" />    
 
     @toastr_css
+    <script src="https://kit.fontawesome.com/c5448c5291.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <!--Navbar Início Start-->

@@ -2,9 +2,9 @@
 
 @section('content')
 <!-- Contato Section Start -->
-<section class="hero-3-bg position-relative overflow-hidden d-flex align-items-center bg-primary">
+<section class="mt-3 mb-3 bg-primary">
     <div class="container">
-        <div class="row justify-content-center contentTop">
+        <div class="row p-2">
             <div class="col-lg-6 col-md-8">
                 <div class="title text-center mb-5">
                 </div>
@@ -14,7 +14,9 @@
             <div class="col-lg-4 text-center">  
                 <!--Email Start-->
                 <!--Icon Email Start-->
-                <span><i class="pe-7s-mail service-icon2 mb-2"></i></span>    
+                <span class="icon-white">
+                    <i class="fas fa-envelope fa-2x"></i>
+                </span>    
                 <!--Icon Email End-->
                 <div class="contact-address">
                     <h5 class="text-yellowFidelix font-weight-normal mb-4 f-18">Email</h5>
@@ -31,21 +33,10 @@
                     </div>
                 </div>
                 <!--Space End-->
-                <!--Redes Sociais Start-->
                 <!--Icon Social Network Start-->
-                <span><i class="pe-7s-like2 service-icon2 mb-3"></i></span>    
-                <!--Icon Social Network End-->
-                <div class="contact-address text-center">
-                    <h5 class="text-yellowFidelix mb-4 font-weight-normal f-18">Redes Sociais</h5>
-                    <!--Button Social Networks Start-->
-                    <ul class="list-unstyled footer-social-list1 mt-6">
-                        <li class="list-inline-item"><a href="https://m.me/fidelixbr?fbclid=IwAR0yotabGhsW0rACtp5zQ7lTYvYAfOU-VYMaETqytkc5OdDS9aCqO7594n8"><i class="mdi mdi-facebook"></i></a></li>
-                        <li class="list-inline-item"><a href="https://instagram.com/fidelixbr?fbclid=IwAR3vnr3GcAfZaWqHaUX9-ZcbLTvnsnXRpfT_lBRbGITdZyxL8gPHCV-5A3c"><i class="mdi mdi-instagram"></i></a></li>
-                        <li class="list-inline-item"><a href="https://twitter.com/FidelixBr"><i class="mdi mdi-twitter"></i></a></li>
-                        <li class="list-inline-item"><a href="https://wa.me/5561981185815?Ola%20gostaria%20de%20informacoes"><i class="mdi mdi-whatsapp"></i></a></li>
-                    </ul>
-                    <!--Button Social Netwrorks End-->
-               </div>
+                <span class="icon-white">
+                    <i class="fas fa-concierge-bell fa-2x"></i>
+                </span>
                 <!--Redes Sociais End-->
             </div>
             <div class="col-lg-7 offset-lg-1">
@@ -77,13 +68,11 @@
                                     <textarea name="message" id="message" rows="3" class="form-control" placeholder="Minha Mensagem"></textarea>
                                 </div>
                             </div>
-                        </div>
-                        <div class="row text-center">
-                            <button type="submit" class="btn btn-warning ml-0 mb-5 mt-2">Enviar 
-                                <i class="mdi mdi-telegram ml-2"></i>
-                            </button>
-                        </div>
-                        @csrf
+                            <div class="col text-center">
+                                <button type="submit" class="btn btn-warning ml-0 mb-5 mt-2">Enviar </button>
+                            </div>
+                            @csrf
+                        </div>                        
                     </form>
                 </div>
             </div>

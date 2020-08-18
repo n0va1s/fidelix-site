@@ -1,65 +1,31 @@
     <!-- Rodapé Start -->
     <section class="footer bg-primary">
-        <div class="container">     
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="text-center text-muted">
-                        <div class="mb-4">
-                            <ul class="list-unstyled footer-social-list mt-4">
-                                <li class="list-inline-item"><a href="https://m.me/fidelixbr?fbclid=IwAR0yotabGhsW0rACtp5zQ7lTYvYAfOU-VYMaETqytkc5OdDS9aCqO7594n8"><i class="mdi mdi-facebook"></i></a></li>
-                                <li class="list-inline-item"><a href="https://instagram.com/fidelixbr?fbclid=IwAR3vnr3GcAfZaWqHaUX9-ZcbLTvnsnXRpfT_lBRbGITdZyxL8gPHCV-5A3c"><i class="mdi mdi-instagram"></i></a></li>
-                                <li class="list-inline-item"><a href="https://twitter.com/fidelixbr"><i class="mdi mdi-twitter"></i></a></li>
-                                <li class="list-inline-item"><a href="https://medium.com/@fidelixbr"><i class="mdi mdi-medium"></i></a></li>
-                            </ul>
-                            <!--Termos de Uso Button Start-->
-                            <!--
-                            <div class="container">
-                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-                                Termos de Uso
-                                </button>
-                                <div class="modal" id="myModal">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content"> 
-                                            <div class="modal-header">
-                                                <h4 class="modal-title">Termos de Uso</h4>
-                                                <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                            </div>
-                                            <div class="modal-body">
-                                            Terms of Use Vs. Terms and Conditions
-
-                                                Legally speaking, a Terms of Use agreement is the same thing as a Terms and Conditions agreement.
-
-                                                We're using the phrase "Terms of Use" to describe a general agreement between you and your users. Different companies use different names for this type of agreement, including:
-
-                                                    Terms and Conditions
-                                                    Terms of Service
-                                                    User Agreement
-                                                    Acceptable Use Policy
-
-                                                These documents usually serve the same purpose but can be used in different contexts.
-                                            </div>
-                                            <div class="modal-footer">
-                                                <button type="button" class="btn btn-warning" data-dismiss="modal">Fechar</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>  
-                            </div>
-                            -->
-                            <!--Termos de Uso Button End-->
-                        </div>
-                    </div>
+        <div class="container">
+            <div class="row col-lg-6 offset-lg-3 text-center">
+                <div class="col">
+                    <a href="https://m.me/fidelixbr?fbclid=IwAR0yotabGhsW0rACtp5zQ7lTYvYAfOU-VYMaETqytkc5OdDS9aCqO7594n8">
+                        <i class="fab fa-facebook fa-2x" style="color: #FFFFFF;"></i>
+                    </a>
                 </div>
-            </div>
-            <!--Author MiSCapu -> Opcional Start-->
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="text-center text-muted">
-                        <p>2020  MiSCapu. Site Desenvolvido por MiSCapu</p>
-                    </div>
+                <div class="col">
+                    <a href="https://instagram.com/fidelixbr?fbclid=IwAR3vnr3GcAfZaWqHaUX9-ZcbLTvnsnXRpfT_lBRbGITdZyxL8gPHCV-5A3c">
+                        <i class="fab fa-instagram fa-2x" style="color: #FFFFFF;"></i>
+                    </a>
                 </div>
-            </div>
-            <!--Author MiSCapu -> Opcional Start-->
+                <div class="col">
+                    <a href="https://twitter.com/fidelixbr">
+                        <i class="fab fa-twitter fa-2x icon-white"></i>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="https://medium.com/@fidelixbr">
+                        <i class="fab fa-medium fa-2x" style="color: #FFFFFF;"></i>
+                    </a>
+                </div>
+                <div class="col-12 text-center p-2">
+                    <p class="text-muted text-center">2020  MiSCapu. Site Desenvolvido por MiSCapu</p>
+                </div>
+            </div>            
         </section>
         <!-- Rodapé End -->
         <!-- javascript -->
