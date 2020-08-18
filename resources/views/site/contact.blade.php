@@ -37,6 +37,10 @@
                 <span class="icon-white">
                     <i class="fas fa-concierge-bell fa-2x"></i>
                 </span>
+                <div class="contact-address">
+                    <h5 class="text-yellowFidelix font-weight-normal mb-4 f-18">Mensagem</h5>
+                    <p class="text-muted f-16 text-light">Estamos esperando a sua mensagem agora mesmo ;)</p>
+                </div>
                 <!--Redes Sociais End-->
             </div>
             <div class="col-lg-7 offset-lg-1">

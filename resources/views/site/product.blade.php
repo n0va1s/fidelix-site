@@ -4,10 +4,10 @@
 <section class="mt-3 mb-3 bg-light" id="features">
     <div class="container">
         <div class="row p-2">
-            <div class="col-lg-6 col-md-8">
-                <div class="title text-center mb-5">   
-                    <h2 class="font-weight-medium text-dark">Nossos <span class="text-dark">Produtos</span></h2>
-                    <p class="text-muted font-weight-normal">Nossos serviços buscam transformar clientes em vendedores, criando uma relação de duradoura de parceria entre ele e a sua empresa.</p>
+            <div class="col-lg-6 offset-lg-3">
+                <div class="text-center">   
+                    <h1 class="font-weight-medium text-center">Nossos <span class="text-warning">Produtos</span></h1>
+                    <p class="font-weight-light text-center">Nossos serviços buscam transformar clientes em vendedores, criando uma relação de duradoura de parceria entre ele e a sua empresa</p>
                 </div>
             </div>
         </div>
