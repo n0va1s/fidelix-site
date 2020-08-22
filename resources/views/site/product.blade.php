@@ -23,7 +23,7 @@
             <p>Tem alguma dúvida? <a href="/contato">Entre em contato</a></p>
         </div>
         <!--Vídeo Responsivo End-->
-        <div class="row align-items-center">
+        <div class="row align-items-center" id="whatsapp-link">
             <div class="col-md-5" style="background: url(images/features/features-bg.png) center center">
                 <div class="features-img">
                     <form action="{{ route('site.zapzap') }}" method="post">
