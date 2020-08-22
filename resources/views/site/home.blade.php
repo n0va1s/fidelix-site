@@ -6,7 +6,7 @@
         <div class="container p-2 text-center">
             <div class="row text-white">
                 <div class="col-xd col-lg-6 offset-lg-3">
-                    <h1 class="font-weight-normal">O SHOPPING CENTER DOS COMERCIANTES DO BAIRRO!</h1>
+                    <h1 class="font-weight-normal">O SHOPPING VIRTUAL DOS COMERCIANTES DO BAIRRO!</h1>
                     <p class="text-muted">
                         Quer melhorar a relação com seus clientes e vender mais?
                         Quer digitalizar seu negócio? Acha caro ter um aplicativo?</p>
@@ -53,7 +53,7 @@
         <div class="container">
             <div class="row p-2">
                 <div class="col-md-12">
-                    <h1 class="font-weight-medium text-center">Conheça a <span class="text-warning">Fidelix</span></h1>
+                    <h4 class="font-weight-bold text-center">Conheça a <span class="text-warning">Fidelix</span></h4>
                     <p class="font-weight-light text-center">Apaixonados por tecnologias que ajudem o pequeno comerciante a se relacinar melhor com seus clientes</p>
                 </div>
                 <div class="col-md-4">

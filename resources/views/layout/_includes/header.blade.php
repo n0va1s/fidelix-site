@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Fidelix</title>
+    <title>Fidelix - o shopping virtual dos comerciantes do bairro</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="O Shopping Center dos comerciantes do bairro" />
-    <meta name="keywords" content="Fidelix, Cartao Fidelidade, Cupom de Desconto, Vitrine de Produtos, MEI, Microempreendedor, aplicativo" />
+    <meta name="description" content="Conheça o cartão fidelidade, o voucher e a vitrine. Leve o seu negócio de bairro para a Internet e crie um relacionamento de fidelidade com seus clientes" />
+    <meta name="keywords" content="Responsabilidade Social, Impacto Social, Comércio Local, Shopping Virtual, Vitrine do Bairro, Pequenos Negócios, Pequenos Empreendedores, Voucher, Fidelidade, Startup, Vender Mais" />
     <meta name="author" content="MiSCapu"/>
 
     <!-- Manifest -->
