@@ -3,20 +3,31 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Fidelix - o shopping virtual dos comerciantes do bairro</title>
+    <meta http-equiv=”content-language” content=”{{ str_replace('_', '-', app()->getLocale()) }}” />
+    <title>Fidelix: Ajudando Negócios de Bairro a Crecerem em Vendas e Relacionamento</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Conheça o cartão fidelidade, o voucher e a vitrine. Leve o seu negócio de bairro para a Internet e crie um relacionamento de fidelidade com seus clientes" />
+
+    <meta name=”robots” content=”nofollow” />
+    <meta name="description" content="Use a nossa metodologia para aumentar as suas vendas e ter um relacionamento incrível com seus clientes">
     <meta name="keywords" content="Responsabilidade Social, Impacto Social, Comércio Local, Shopping Virtual, Vitrine do Bairro, Pequenos Negócios, Pequenos Empreendedores, Voucher, Fidelidade, Startup, Vender Mais" />
     <meta name="author" content="MiSCapu"/>
+    <meta name="creator" content="João Paulo Novais" />
+    <meta name="theme-color" content="#2558ab" />
+    <meta name=”application-name” content=”Fidelix”>
 
     <!-- Manifest -->
     <link rel="manifest" href="/manifest.json">
-    <meta name="theme-color" content="#2558ab" />
 
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Fidelix - voucher">
     <link rel="apple-touch-icon" href="{{ asset('images/icon/app-icon-152-152.png') }}">
+
+    <meta property=”og:locale” content=”{{ str_replace('_', '-', app()->getLocale()) }}” />
+    <meta property=”og:type” content=”website” />
+    <meta property=”og:title” content=”Fidelix: Ajudando Negócios de Bairro a Crecerem em Vendas e Relacionamento” />
+    <meta property=”og:description” content=”Use a nossa metodologia para aumentar as suas vendas e ter um relacionamento incrível com seus clientes”>
+    <meta property=”og:site_name” content=”Fidelix”>
 
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ asset('images/fidelix.ico') }}">
